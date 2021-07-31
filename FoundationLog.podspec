@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FoundationLog'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Support for logging Chinese words in the terminal. Compatible with both Swift and Objective-C.'
 
   s.homepage         = 'https://github.com/janlionly/FoundationLog'
